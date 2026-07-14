@@ -33,6 +33,8 @@ Contacts: <br />
 &nbsp; &nbsp; Email: smatuku1 at umbc dot edu <br />
 
 
+<img width="2160" height="2880" alt="michael" src="https://github.com/user-attachments/assets/dc152abb-2d9e-4db2-8f82-5186d8ef6b25" />
+
 Michael Barthel is a current undergraduate student from UMBC pursuing a dual degree in Computer Science and Accounting. <br />
 He has been a member of the Protocol Analysis Lab for just under a year, during which he has both helped with CPSA training sessions in the lab and worked to become a co-author on PAL's most recent paper.
 
@@ -40,6 +42,8 @@ Contacts: <br />
 &nbsp; &nbsp; Discord: notthatpurevessel <br />
 &nbsp; &nbsp; Email: mbarthe1 at umbc dot edu <br />
 
+
+<img width="3024" height="3780" alt="demarko" src="https://github.com/user-attachments/assets/840c0eca-6e70-471b-bba0-69a18a02d1f1" />
 
 DeMarko Fulcher has graduated from UMBC, with a B.S. in Mathematics, he is currently pursuing a M.S. in Computer Science at UMBC. <br />
 He is apart of the ATOMS Lab, E-WiNS Lab and Protocol Analysis Lab where he focuses on formal methods, automated reasoning, and security research. 
