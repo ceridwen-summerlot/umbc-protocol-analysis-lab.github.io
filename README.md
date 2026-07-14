@@ -12,6 +12,20 @@ We were founded by uhh ummmm uhhhhhh
 
 # Current Staff
 
+Enis
+
+Sai
+
+Michael
+
+Ceridwen
+
+Carson
+
+William
+
+Michaela
+
 # Get Involved
 
 Pal Education
