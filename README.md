@@ -1,6 +1,6 @@
 UMBC PAL info here
 
-*Lab picture*
+<img width="2880" height="2160" alt="image" src="https://github.com/user-attachments/assets/b3c63006-9fef-4c80-b060-be89084e2f90" />
 
 # Intro Blurb
 
