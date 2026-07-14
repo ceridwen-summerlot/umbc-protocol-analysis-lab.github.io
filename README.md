@@ -4,7 +4,7 @@ UMBC PAL info here
 
 <style>
 summary::marker {
-  font-size: 1.8em;
+  font-size: 2.0em;
 }
 </style>
 
