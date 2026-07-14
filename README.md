@@ -12,7 +12,7 @@ We were founded by uhh ummmm uhhhhhh
 
 # Get Involved
 
-[PAL Education](https://ceridwen-summerlot.github.io/umbc-protocol-analysis-lab.github.io/palEducationPage.md)
+[PAL Education](https://ceridwen-summerlot.github.io/umbc-protocol-analysis-lab.github.io/palEducationPage)
 
 Friday Meetings
 
