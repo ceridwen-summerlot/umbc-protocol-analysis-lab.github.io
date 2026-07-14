@@ -10,10 +10,10 @@ Sessions are held twice per week on Tuesdays and Thursdays, and last for one hou
 Practical assignments will also be given to all participants to provide more tactile, hands-on experience with the research methods employed by PAL. 
 By the end of this training program, participants will be able to:
 
-- Understand and reason about basic cryptographic concepts
-- Use CPSA to model protocols based on specifications and identify problems
-- Read and understand protocol specifications for real-world systems
-- Understand and reason about the mathematical formalism used by CPSA
+&nbsp - Understand and reason about basic cryptographic concepts
+&nbsp - Use CPSA to model protocols based on specifications and identify problems
+&nbsp - Read and understand protocol specifications for real-world systems
+&nbsp - Understand and reason about the mathematical formalism used by CPSA
 
 Workshop series are run frequently. Upcoming workshops include:
 - 7/14--8/6, 6:00pm--7:00pm Tuesdays & Thursdays
