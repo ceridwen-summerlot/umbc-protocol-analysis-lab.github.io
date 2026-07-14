@@ -12,7 +12,7 @@ We were founded by uhh ummmm uhhhhhh
 
 # Get Involved
 
-./palEducationPage.md
+[PAL Education](umbc-protocol-analysis-lab.github.io/palEducationPage.md)
 
 Friday Meetings
 
