@@ -17,7 +17,7 @@ The UMBC Protocol Analysis Lab (PAL) is a research laboratory made of of undergr
 </details>
 
 <details markdown="1">
-  <summary><span style="font-size: 2em; font-weight: bold;">Get Involved!</span></summary>
+  <summary><h1 style="display: inline;">Get Involved!</h1></summary>
   
   [PAL Education](https://ceridwen-summerlot.github.io/umbc-protocol-analysis-lab.github.io/palEducationPage) <br>
   <br>
