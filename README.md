@@ -12,7 +12,7 @@ We were founded by uhh ummmm uhhhhhh
 
 # Get Involved
 
-Pal Education
+./palEducationPage.md
 
 Friday Meetings
 
