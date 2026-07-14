@@ -6,9 +6,8 @@ UMBC PAL info here
 
 The UMBC Protocol Analysis Lab (PAL) is a research laboratory made of of undergraduate, graduate, and doctoral level staff. Under the direction of Dr. Enis Golaszewski, PAL investigates and secures the underlying protocols which govern communication in all computer networks. The lab is open to all levels of experience, and concurrently develops nearly half a dozen projects at any given time.
 
-# What is the Lab?
 <details>
-  <summary>Click here to expand</summary>
+  <summary><h1>What is the Lab?</summary>
   
   We were founded by <br>
   <br>
@@ -17,9 +16,8 @@ The UMBC Protocol Analysis Lab (PAL) is a research laboratory made of of undergr
   We wrote some bangin papers such as <br>
 </details>
 
-# Get Involved!
-<details>
-  <summary>Click here to expand</summary>
+<details markdown="1">
+  <summary><h1>Get Involved!</summary>
   
   [PAL Education](https://ceridwen-summerlot.github.io/umbc-protocol-analysis-lab.github.io/palEducationPage) <br>
   <br>
