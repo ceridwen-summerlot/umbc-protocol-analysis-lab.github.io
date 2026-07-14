@@ -10,21 +10,21 @@ The UMBC Protocol Analysis Lab (PAL) is a research laboratory made of of undergr
 <details>
   <summary>Click here to expand</summary>
   
-  We were founded by
-  
-  We do research in
-  
-  We wrote some bangin papers such as
+  We were founded by <br>
+  <br>
+  We do research in <br>
+  <br>
+  We wrote some bangin papers such as <br>
 </details>
 
 # Get Involved!
 <details>
   <summary>Click here to expand</summary>
   
-  [PAL Education](https://ceridwen-summerlot.github.io/umbc-protocol-analysis-lab.github.io/palEducationPage)
-
-  Friday Meetings
-
+  [PAL Education](https://ceridwen-summerlot.github.io/umbc-protocol-analysis-lab.github.io/palEducationPage) <br>
+  <br>
+  Friday Meetings <br>
+  <br>
   CDL Talks
 </details>
 
