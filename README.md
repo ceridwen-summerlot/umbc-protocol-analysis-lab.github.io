@@ -10,7 +10,7 @@ The UMBC Protocol Analysis Lab (PAL) is a research laboratory made of of undergr
 
 We were founded by uhh ummmm uhhhhhh
 
-Current Staff
+# Current Staff
 
 # Get Involved
 
@@ -20,4 +20,4 @@ Friday Meetings
 
 CDL Talks
 
-Past Research
+# Past Research
