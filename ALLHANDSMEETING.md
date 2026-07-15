@@ -1,3 +1,5 @@
+#Weekly All-Hands Meeting
+
 Every Friday from 1-2pm, PAL meets for an all hands meeting. 
 Meetings are held in-person in ITE228, as well as online in the PAL discord server.
 All are welcome!
