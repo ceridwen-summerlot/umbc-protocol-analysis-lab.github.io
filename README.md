@@ -29,7 +29,7 @@ The UMBC Protocol Analysis Lab (PAL) is a research laboratory made of of undergr
   <br>
   CDL Talks
 </details>
-
+<br>
 
 <details markdown="1">
   <summary><h1 style="display: inline;">Current Staff:</h1></summary>
@@ -49,6 +49,7 @@ The UMBC Protocol Analysis Lab (PAL) is a research laboratory made of of undergr
   Michaela <br>
   <br>
 </details>
+<br>
 
 <details markdown="1">
   <summary><h1 style="display: inline;">Current Research:</h1></summary>
@@ -61,6 +62,7 @@ The UMBC Protocol Analysis Lab (PAL) is a research laboratory made of of undergr
   <br>
   FIXS <br>
 </details>
+<br>
 
 <details markdown="1">
   <summary><h1 style="display: inline;">Past Research:</h1></summary>
