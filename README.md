@@ -28,7 +28,7 @@ The UMBC Protocol Analysis Lab (PAL) is a research laboratory made of of undergr
   <br>
   [Friday Meetings](https://ceridwen-summerlot.github.io/umbc-protocol-analysis-lab.github.io/ALLHANDSMEETING) <br>
   <br>
-  CDL Talks
+  [CDL Talks](https://ceridwen-summerlot.github.io/umbc-protocol-analysis-lab.github.io/CDLTALKS)
 </details>
 <br>
 
