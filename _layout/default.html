@@ -15,9 +15,16 @@
   </head>
 
   <body>
+	<!-- Top bar on every page for navigation -->
+	<nav class="top-nav">
+  		<a href="{{ '/' | relative_url }}">Home</a>
+  		<a href="{{ '/palEducationPage' | relative_url }}">PAL Education</a>
+	</nav>
+	  
+	  
     <div id="container">
       <div class="inner">
-
+	
         <header>
           <h1>{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
           <h2>{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
