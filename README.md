@@ -1,5 +1,3 @@
-UMBC PAL info here
-
 <img width="2880" height="2160" alt="image" src="https://github.com/user-attachments/assets/b3c63006-9fef-4c80-b060-be89084e2f90" />
 
 <style>
@@ -13,7 +11,7 @@ summary::marker {
 The UMBC Protocol Analysis Lab (PAL) is a research laboratory made of of undergraduate, graduate, and doctoral level staff. Under the direction of Dr. Enis Golaszewski, PAL investigates and secures the underlying protocols which govern communication in all computer networks. The lab is open to all levels of experience, and concurrently develops nearly half a dozen projects at any given time.
 
 <details markdown="1">
-  <summary><h1>What is the Lab?</h1></summary>
+  <summary><h1 style="display: inline;">What is the Lab?</h1></summary>
   
   We were founded by <br>
   <br>
@@ -34,7 +32,7 @@ The UMBC Protocol Analysis Lab (PAL) is a research laboratory made of of undergr
 
 
 <details markdown="1">
-  <summary><h1>Current Staff:</h1></summary>
+  <summary><h1 style="display: inline;">Current Staff:</h1></summary>
   
   Enis <br>
   <br>
@@ -53,7 +51,7 @@ The UMBC Protocol Analysis Lab (PAL) is a research laboratory made of of undergr
 </details>
 
 <details markdown="1">
-  <summary><h1>Current Research:</h1></summary>
+  <summary><h1 style="display: inline;">Current Research:</h1></summary>
   
   MCP <br>
   <br>
@@ -65,7 +63,7 @@ The UMBC Protocol Analysis Lab (PAL) is a research laboratory made of of undergr
 </details>
 
 <details markdown="1">
-  <summary><h1>Past Research:</h1></summary>
+  <summary><h1 style="display: inline;">Past Research:</h1></summary>
   
   C2PA <br>
   <br>
