@@ -1,4 +1,4 @@
-<img width="2880" height="540" alt="image" src="https://github.com/user-attachments/assets/b3c63006-9fef-4c80-b060-be89084e2f90" />
+<img width="2880" height="432" alt="image" src="https://github.com/user-attachments/assets/b3c63006-9fef-4c80-b060-be89084e2f90" />
 
 <style>
 summary::marker {
