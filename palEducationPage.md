@@ -1,5 +1,3 @@
-layout: page title: "PAL Education" permalink: /pal-education
-
 # UMBC Protocol Analysis Lab Training Program
 
 UMBC’s Protocol Analysis Lab (PAL) specializes in formal program verification, which is performed here through a software tool known as the Cryptographic Protocol Shapes Analyzer, or CPSA. 
