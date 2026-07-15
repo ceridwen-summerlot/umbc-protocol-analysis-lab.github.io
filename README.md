@@ -33,21 +33,43 @@ The UMBC Protocol Analysis Lab (PAL) is a research laboratory made of of undergr
 </details>
 
 
+<details markdown="1">
+  <summary><h1>Current Staff:</h1></summary>
+  
+  Enis <br>
+  <br>
+  Sai <br>
+  <br>
+  Carson <br>
+  <br>
+  Michael <br>
+  <br>
+  Ceridwen <br>
+  <br>
+  William <br>
+  <br>
+  Michaela <br>
+  <br>
+</details>
 
-# Current Staff:
+<details markdown="1">
+  <summary><h1>Current Research:</h1></summary>
+  
+  MCP <br>
+  <br>
+  SEAL <br>
+  <br>
+  ProtoBind Guard <br>
+  <br>
+  FIXS <br>
+</details>
 
-Enis
-
-Sai
-
-Michael
-
-Ceridwen
-
-Carson
-
-William
-
-Michaela
-
-# Past Research
+<details markdown="1">
+  <summary><h1>Past Research:</h1></summary>
+  
+  C2PA <br>
+  <br>
+  SecureDNA <br>
+  <br>
+  FIDO UAF <br>
+</details>
