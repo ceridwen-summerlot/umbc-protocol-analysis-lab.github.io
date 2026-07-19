@@ -7,3 +7,5 @@ The work we do in PAL can be a bit daunting, especially if you want to get invol
   [CPSA Manual](https://hackage-content.haskell.org/package/cpsa-3.3.2/src/doc/cpsamanual.pdf) <br>
   <br>
 # Suggested Reading
+For more reading see our [research papers](https://ceridwen-summerlot.github.io/umbc-protocol-analysis-lab.github.io/RESEARCHPAPERS) page <br>
+  <br>
