@@ -54,7 +54,7 @@ Contacts: <br />
 &nbsp; &nbsp; Email: demarkf1 at umbc dot edu <br />
 
 
-<img width="2160" height="2880" alt="ceridwen" src="https://github.com/user-attachments/assets/dc152abb-2d9e-4db2-8f82-5186d8ef6b25](https://github.com/ceridwen-summerlot/umbc-protocol-analysis-lab.github.io/blob/main/assets/images/staff_photos/ceridwenSummerlot.jpg" />
+<img width="2160" height="2880" alt="ceridwen" src="https://github.com/ceridwen-summerlot/umbc-protocol-analysis-lab.github.io/blob/main/assets/images/staff_photos/ceridwenSummerlot.jpg" />
 
 Ceridwen Summerlot is a current undergraduate student from UMBC pursuing a degree in Computer Science with a cybersecurity focus and a minor in Russian. <br />
 She is a recent member of staff for the Protocol Analysis lab, and is currently working on the CPSA training sessions, as well as being the lead for developing and maintaining the PAL Website.
